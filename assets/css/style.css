@@ -58,7 +58,8 @@ a {
     text-decoration: none;
 }
 
-/*hero image below header*/
+/*styling for the box and hero image below header*/
+/*background image doesn't have Alt text because it is a style property of an element and Alt tag is an attribute of an element*/
 .hero {
     height: 800px;
     width: 100%;
