@@ -3,7 +3,7 @@
 Client would like code refacotred to follow *accessibility* standards ♿ 
 
 So that the site is *optimized* for search engines 📈
-______________________
+
 ## Acceptance Criteria 💼
 * Change the source code to follow **HTML** semantics.
 * Make sure the *elements* follow a logical structure.
@@ -12,11 +12,10 @@ ______________________
 * Change the *title* of the search enging tab to company name (**Horiseon Social Solution Services, inc.**)
 
  - [✔️] **Status Complete** 
-______________________
 
 ## In Addition 🏆
 * Added meta data to aid in *search engine optimization* by adding a description and keywords to the head of the code.
-* Added meta data to set the *viewport* to make your website look good on all devices.
+* Added meta data to set the *viewport* to make website look good on all devices.
 * Fixed broken header link *Search Engine Optimization* in the nav bar.
 * Reworked **CSS** code to make it *more efficient* by consolidating **CSS** selectors and properties,
   organizing them to follow the semantic structure of the **HTML** elements.
@@ -26,20 +25,19 @@ ______________________
 ______________________
 
 
-▫️Link to **repository** on **Git Hub** - [https://github.com/Bryson-Palmer/Horiseon_codeRefactoring.git](https://github.com/Bryson-Palmer/Horiseon_codeRefactoring.git)
+Link to **repository** on **Git Hub** - [https://github.com/Bryson-Palmer/Horiseon_codeRefactoring.git](https://github.com/Bryson-Palmer/Horiseon_codeRefactoring.git)
 
-▫️Live **URL** link to **Horiseon Social Solutions, inc.** - [https://bryson-palmer.github.io/Horiseon_codeRefactoring/](https://bryson-palmer.github.io/Horiseon_codeRefactoring/)
+Live **URL** link to **Horiseon Social Solutions, inc.** - [https://bryson-palmer.github.io/Horiseon_codeRefactoring/](https://bryson-palmer.github.io/Horiseon_codeRefactoring/)
 ______________________
 
-**Original image** 📷(
+**Original image** 📷
 
 ![Original](./assets/images/01-html-css-git-homework-demo.png) 
 
-**Updated image** 📸(
+**Updated image** 📸
 
 ![Update](./assets/images/Horiseon-code-refactor.png) 
 
-_______________________
 
 ## Issues to Address in the Future 🔍 
 
@@ -47,10 +45,9 @@ _______________________
 * Use **@media** queries to set more display properties for a truly responsive layout.
 * Keep the text from *spilling* out of their containers.
 
-________________________
 
 ## Other Information 📡
 * Installation: none
 * Usage: no user instructions
 * Credits: no collaborators, third party assets, or tutorials used
-* License: ©️ Horiseon Social Solutions, inc.
+* License: ©️ 2019 Horiseon Social Solutions, inc.
