@@ -38,12 +38,17 @@ ______________________
 
 ![Update](./assets/images/Horiseon-code-refactor.png) 
 
+## Accessibility Report
+
+![Report](./assets/images/Accessibility-Report.png)
+
 
 ## Issues to Address in the Future 🔍 
 
 * Utilize **flex box** to give the site a responsive layout for all devices.
 * Use **@media** queries to set more display properties for a truly responsive layout.
 * Keep the text from *spilling* out of their containers.
+* Finding the last 8% of accessibility issues and fixing them.
 
 
 ## Other Information 📡
