@@ -11,7 +11,7 @@ ______________________
 * Make sure the heading attributes fall in *sequential* order.
 * Change the *title* of the search enging tab to company name (**Horiseon Social Solution Services, inc.**)
 
- - [X] **Status Complete** ✔️
+ - [✔️] **Status Complete** 
 ______________________
 
 ## In Addition 🏆
@@ -22,7 +22,7 @@ ______________________
   organizing them to follow the semantic structure of the **HTML** elements.
 * Included *comments* throughout the **HTML** and **CSS** code to label, explain addition or ommition of code, or about function.
 
- - [X] **Status Complete** ✔️
+ - [✔️] **Status Complete** 
 ______________________
 
 
